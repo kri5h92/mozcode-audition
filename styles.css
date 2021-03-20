@@ -198,7 +198,6 @@ form button:hover{
         margin: 0 auto;
     }
     .landing img{
-        min-width: max-content;
         opacity: 0.2;
     }
    
